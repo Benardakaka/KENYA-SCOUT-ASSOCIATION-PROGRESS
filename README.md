@@ -9,7 +9,7 @@ This is an application that displays a list different news sources from around t
 ## User Stories
 The user would like to.... :
 * See various news sources and select the ones they prefer  to view.
-* View all news sources from the source they selected.
+* View all news sources from the source they selected..
 * See Image description and time the news article was created. 
 * Click on an article and read it fully from the news source
 
